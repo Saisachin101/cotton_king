@@ -1,0 +1,18 @@
+2020-05-27T17:08:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\cotton_kings\wp-includes\wp-db.php on line 2024
+
+2020-05-27T19:54:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\cotton_kings\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-05-27T19:54:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\cotton_kings\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-05-27T19:54:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\cotton_kings\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-05-27T19:54:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\cotton_kings\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-05-27T19:54:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\cotton_kings\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-05-27T19:56:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\cotton_kings\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-05-27T19:56:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\cotton_kings\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-05-27T19:56:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\cotton_kings\wp-includes\Requests\Transport\cURL.php on line 463
+
